@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[You're Thinking It, I am Saying It]]></title>
         <description><![CDATA[You're Thinking It, I am Saying It]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/youre-thinking-it-i-am-saying-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 04:51:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 04:51:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/youre-thinking-it-i-am-saying-it/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
+            <description><![CDATA[<article><h1>The Impossible Project's first instant camera has an app with full manual controls</h1><p>The Impossible Project is best known for keeping Polaroid's type 600 instant film format alive even after it was abandoned by the long-time camera maker in 2008. The company also refurbishes old Polaroid type 600 cameras in order to resell them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c48b764b8e712eab67051afd16854e8d8ce70f6.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/11/11409572/impossible-project-instant-camera-app-polaroid-format</link>
+            <guid isPermaLink="false">bf526a10-8d70-499e-9718-3f7000d9a9d0</guid>
+            <pubDate>Sun, 22 May 2016 04:51:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
             <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
